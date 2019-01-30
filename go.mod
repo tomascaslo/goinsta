@@ -1,1 +1,1 @@
-module github.com/tomascaslo/goinsta
+module github.com/tomascaslo/goinsta/v2
